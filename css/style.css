@@ -118,5 +118,36 @@ main .projetos {
 }
 
 main .projetos__conteudo {
-    
+    border: 2px solid white;
+    display: flex;
+    justify-content: space-between;
+}
+
+main .projetos__conteudo__coluna1 {
+}
+
+main #projetos__conteudo__coluna1__titulo {
+    color: #F9003D;
+    font-family: Luiz Henrique;
+    font-size: 64px;
+    font-weight: normal;
+}
+
+main #projetos__conteudo__coluna1__imagem {
+}
+
+main .projetos__conteudo__coluna2 {
+    width: 592px;
+}
+
+main #projetos__conteudo__coluna2__subtitulo {
+    color: white;
+}
+
+main #projetos__conteudo__coluna2__titulo {
+    color: white;
+}
+
+main #projetos__conteudo__coluna2__texto {
+    color: white;
 }
